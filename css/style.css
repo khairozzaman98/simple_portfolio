@@ -1,0 +1,93 @@
+*{
+      margin: 0;
+      margin: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+
+}
+
+  /* navgation menu */
+
+  .nav {
+    display: flex;
+    margin-top: 1%;
+  }
+
+  .navgatio li {
+    background: rgb(4, 236, 139);
+    list-style-type: none;
+    border-radius: 50%;
+    
+  }
+
+ 
+
+  .navgatio li a{
+    font-size: 25px;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: none;
+  }
+
+
+  
+  
+
+
+
+
+  .nav2{
+    padding-left: 57%;
+    display: inline-flex;
+  }
+
+  ul li{
+    list-style-type: none;
+  }
+  
+  ul li {
+   
+    float:left;
+  }
+  
+  ul li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+  }
+  
+  li a:hover {
+    background-color: #111;
+  } 
+
+
+
+  /* about section top */
+
+  h1{
+    font-size: 22px;
+  }
+  span{
+    color: orange;
+  }
+  .name{
+    display: flex;
+    margin: 5%;
+  }
+
+  .about1{
+    padding: 2% 12% 5% 0;
+  }
+ 
+  #aboutme h3
+
+   
+
+  .aboutpic{
+    padding: 5px;
+  }
+  .aboutpic img{
+     width:99.2%;
+  }
